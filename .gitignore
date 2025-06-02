@@ -8,6 +8,6 @@ SVM.ipynb
 .vscode/
 .env
 *.pyc
-
+Reddit_MHAnalysis.ipynb
 README.md
 RFM_kMeans.ipynb
